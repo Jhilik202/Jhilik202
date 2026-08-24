@@ -89,15 +89,6 @@ I focus on creating websites and applications that are:
 
 ### 🌐 Web Development Projects
 
-I build projects to explore different technologies and solve practical problems.
-
-| Project       | Description                                                         | Technologies              |
-| ------------- | ------------------------------------------------------------------- | ------------------------- |
-| 🔹 Project 01 | Web application focused on responsive UI and frontend functionality | HTML, CSS, JavaScript     |
-| 🔹 Project 02 | Interactive frontend application                                    | React, JavaScript         |
-| 🔹 Project 03 | Full-stack web application                                          | React, Spring Boot, MySQL |
-
-> 🚧 More projects are currently in development.
 
 ---
 
@@ -143,8 +134,8 @@ I believe the best way to learn software development is by **building real proje
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhilik202&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhilik202&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -152,7 +143,7 @@ I believe the best way to learn software development is by **building real proje
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=jhilik202&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -160,7 +151,7 @@ I believe the best way to learn software development is by **building real proje
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/jhilik202/jhilik202/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
